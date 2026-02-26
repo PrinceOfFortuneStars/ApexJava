@@ -38,7 +38,7 @@
 
 ### Redis面试题
 
-1. [Redis是AP的还是CP的？](./Redis/Redis.md#为什么单机版 Redis 不适用 CAP 理论？单机版Redis：不适用CAP理论)
+1. [Redis是AP的还是CP的？](./Redis/Redis.md#Redis是AP的还是CP的)
 2. [介绍一下Redis的集群模式？](./Redis/Redis.md#介绍一下Redis的集群模式？)
 3. [CAP、BASE、ACID](./Redis/Redis.md#CAP)
 
