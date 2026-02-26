@@ -38,8 +38,8 @@
 
 ### Redis面试题
 
-1. [Redis是AP的还是CP的？](https://github.com/PrinceOfFortuneStars/ApexJava/blob/main/Redis/Redis.md#redis%E6%98%AFap%E7%9A%84%E8%BF%98%E6%98%AFcp%E7%9A%84)
-2. [介绍一下Redis的集群模式？](https://github.com/PrinceOfFortuneStars/ApexJava/blob/main/Redis/Redis.md#%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bredis%E7%9A%84%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F)
+1. [Redis是AP的还是CP的？](./Redis/Redis.md#为什么单机版 Redis 不适用 CAP 理论？单机版Redis：不适用CAP理论)
+2. [介绍一下Redis的集群模式？](./Redis/Redis.md#介绍一下Redis的集群模式？)
 3. [CAP、BASE、ACID](./Redis/Redis.md#CAP)
 
 ## Java基础
