@@ -1887,7 +1887,7 @@ git push origin master
 - **省事**：配置一次，终身免密（或者只在重启后输一次密码，如果你设置了密钥密码的话）。
   [(video_note_list_1)]
 
-# 介绍一下Redis的集群模式？Could you please introduce the cluster mode of Redis?
+# 介绍一下Redis的集群模式？
 
 Redis有三种主要的集群模式，用于在分布式环境中实现高可用性和数据复制。这些集群模式分别是：**主从复制（Master-Slave Replication）、哨兵模式（Sentinel）和Redis Cluster模式。**
 
