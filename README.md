@@ -4,7 +4,7 @@
 
 [架构师之路](##架构师之路)、[产品业务思维](##产品业务思维)、[大厂实战工作经验与感悟](##大厂实战工作经验与感悟)、科研与论文阅读、
 
-AI Agent、面试场景题、[Redis知识总结](README.md##Redis知识总结)、Redis面试题、Java基础知识总结、
+AI Agent、面试场景题、[Redis知识总结](README.md#Redis知识总结)、Redis面试题、Java基础知识总结、
 
 Java基础面试题、Java高并发、JVM虚拟机、微服务、MySQL、Netty、分布式、
 
