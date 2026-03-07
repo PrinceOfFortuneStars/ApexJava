@@ -58,6 +58,9 @@ Java开源框架、[社会观察与哲学思考](README.md#社会观察与哲学
 2. [介绍一下Redis的集群模式？](./Redis/Redis.md#介绍一下Redis的集群模式)
 3. [CAP、BASE、ACID](./Redis/Redis.md#CAP)
 4. [介绍一下Redis的集群模式](./Redis/Redis面试题/Redis面试题.md#介绍一下Redis的集群模式)
+5. [为什么Redis设计成单线程也能这么快，详解IO多路复用技术](./Redis/Redis面试题/Redis面试题.md#为什么Redis设计成单线程也能这么快)
+6. [Redis 5.0中的 Stream是什么？](./Redis/Redis面试题/Redis面试题.md#Redis 5.0中的 Stream是什么？)
+7. [除了做缓存，Redis还能用来干什么？](./Redis/Redis面试题/Redis面试题.md#除了做缓存，Redis还能用来干什么？)
 
 ## Java基础
 
